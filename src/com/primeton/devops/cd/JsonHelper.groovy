@@ -1,6 +1,6 @@
-package com.primeton.devops.cd
+package com.primeton.devops.cd;
 
-import java.io
+import java.io.Serializable
 
 public class JsonHelper implements Serializable{
 	public static def toJson() {
