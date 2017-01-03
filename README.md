@@ -1,0 +1,2 @@
+# somelib
+jenkins pipeline lib
