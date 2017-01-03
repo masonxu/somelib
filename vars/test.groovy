@@ -1,0 +1,3 @@
+def printError() {
+    println "error"
+}
